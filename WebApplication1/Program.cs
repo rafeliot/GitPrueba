@@ -14,6 +14,8 @@ namespace WebApplication1
     {
         //editado en github, nuevamente
         //ahora desde visual
+
+        //agregue clases
         
         public static void Main(string[] args)
         {
